@@ -1,6 +1,9 @@
 CourseProject
 =============
-run.analysis.R processes the following raw data by ...... into tidy data.
+run.analysis.R processes the following raw data by ...... into tidy data being stored in .......
+
+The tidy data is now more suitable for analysis in term of ......
+
 
 
 
