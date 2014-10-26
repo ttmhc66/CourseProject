@@ -1,6 +1,6 @@
 CourseProject
 =============
-run.analysis.R processes the following raw data by combining. sorting, grouping and summarising them into tidy data being stored in newdat.txt (you may refer to comments in the file run.analysis.R on how the codes do what are actually required )
+run.analysis.R processes the following raw data by combining. sorting and grouping/summarising them into tidy data being stored in newdat.txt (you may refer to comments in the file run.analysis.R on how the codes do what are actually required )
 1.  X_test.txt
 2.  y_test.txt
 3.  subject_text.txt
