@@ -34,3 +34,4 @@ dat <- dat[,grepl("mean|std|subject|activity", names(dat)) & !grepl("meanFreq", 
 dat <- arrange(dat, subject, activity)
 groupdat <- dat %>% group_by(subject, activity)
 newdat <- groupdat %>% summarise_each(funs(mean))
+write.table(newdat, "newdat.txt", row.names = FALSE)
